@@ -7,20 +7,15 @@
  </h1>
 </div>
 
+<div align="center">
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdsYmMxMWgxbGpxbzNhcmc3c3lscjY2bnUwbGs4MjU0enBlbWJ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rOev4Rw3ADfwKTm7gb/giphy.gif" width="120px">
+</div>
+
 <p align='center'>
 <a href="linkedin.com/in/siddharth-juyal-a30920201/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/siddharth_juyal"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/or5hur93y7gyik9rmm9n453sv?si=a8e440ea3a21484a"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
 </p>
-
-<div align="center">
- <p><a href="https://giphy.com/stickers/david-michelangelo-bust-rOev4Rw3ADfwKTm7gb">via GIPHY</a></p>
-
-  https://giphy.com/stickers/david-michelangelo-bust-rOev4Rw3ADfwKTm7gb
-
-  https://giphy.com/stickers/water-blue-statue-hWvZwwomcz0CHz7LBA
-  
-</div>
 
 <div align="center">
    <h1>🔨 Languages and Tools 🔨
