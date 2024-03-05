@@ -41,18 +41,18 @@
 <div>
    <h2 align="right">Tech Arsenal</h2>
 
-   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3M5dDV3cWpibnE2cm1lbXdranJiNWQzaDI5dmNsdzllbHhoN3h1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10jYACUrFLPQC4/giphy.gif" width="250px">
+   <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3M5dDV3cWpibnE2cm1lbXdranJiNWQzaDI5dmNsdzllbHhoN3h1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10jYACUrFLPQC4/giphy.gif" width="250px">
 
-   <h4>Programming Languages</h4>
-   <img align="left" src="https://img.shields.io/badge/python--white%20?style=for-the-badge&logo=python&logoColor=white&labelColor=blue">
-   <img src="https://img.shields.io/badge/C%2B%2B-%20-white%20?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=blue">
+   <h4 align="right">Programming Languages</h4>
+   <img align="right" src="https://img.shields.io/badge/python--white%20?style=for-the-badge&logo=python&logoColor=white&labelColor=blue">
+   <img align="right" src="https://img.shields.io/badge/C%2B%2B-%20-white%20?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=blue">
    &nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Javascript-%20-white%20?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow">
+   <img align="right" src="https://img.shields.io/badge/Javascript-%20-white%20?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow">
 
    <br>
 
-   <h4>Backend Development</h4>
-   <img src="https://img.shields.io/badge/Flask--white%20?style=for-the-badge&logo=flask&logoColor=white&labelColor=blue">
+   <h4 align="right">Backend Development</h4>
+   <img align="right" src="https://img.shields.io/badge/Flask--white%20?style=for-the-badge&logo=flask&logoColor=white&labelColor=blue">
 </div>
 
 
