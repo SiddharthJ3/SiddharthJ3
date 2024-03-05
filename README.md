@@ -17,17 +17,42 @@
 <a href="https://open.spotify.com/user/or5hur93y7gyik9rmm9n453sv?si=a8e440ea3a21484a"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-<div align="center">
-   <h1>🔨 Languages and Tools 🔨
- </h1>
+<div align="left">
+   <h2>Me.exe: Digital Saga
+ </h2>
+
+
+<img align="right" src="https://media0.giphy.com/media/3o7aD25MovvtfQoENy/giphy.gif?cid=ecf05e478qxnt7urzjgh1gt3bqkasmui5mg19088vz0xgiuc&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="250px">
+
+- 👨‍💼:SDE-Intern (Backend) at [Tyroo](https://tyroo.com/).
+- 👨‍💼:Ex-SDE-Intern (Fullstack) at [Bajaj Capital](https://www.bajajcapital.com/).
+- :lion: Mastering the digital domain with grit, and unwavering dedication.
+- 📂: [Resume](https://drive.google.com/file/d/1GAy-lpUVIjy-FK0o_LUgs_pcWBcI19e2/view?usp=drive_link).
 </div>
 
-<div align='center'>
-<a href="https://www.python.org" target="_blank"><img alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height='42px'/> </a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<div>
+   <h2 align="right">Tech Arsenal</h2>
+
+   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3M5dDV3cWpibnE2cm1lbXdranJiNWQzaDI5dmNsdzllbHhoN3h1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10jYACUrFLPQC4/giphy.gif" width="250px">
+
+   <h4>Programming Languages</h4>
+   <img align="left" src="https://img.shields.io/badge/python--white%20?style=for-the-badge&logo=python&logoColor=white&labelColor=blue">
+   <img src="https://img.shields.io/badge/C%2B%2B-%20-white%20?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=blue">
+   &nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Javascript-%20-white%20?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow">
+
+   <br>
+
+   <h4>Backend Development</h4>
+   <img src="https://img.shields.io/badge/Flask--white%20?style=for-the-badge&logo=flask&logoColor=white&labelColor=blue">
 </div>
+
 
