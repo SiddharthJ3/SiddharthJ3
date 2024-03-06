@@ -50,9 +50,45 @@
    <img align="right" src="https://img.shields.io/badge/Javascript-%20-white%20?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow">
 
    <br>
+   <br>
 
    <h4 align="right">Backend Development</h4>
    <img align="right" src="https://img.shields.io/badge/Flask--white%20?style=for-the-badge&logo=flask&logoColor=white&labelColor=blue">
+    &nbsp;&nbsp;&nbsp;
+   <img align="right" src="https://img.shields.io/badge/Pandas-%20-yellow?style=for-the-badge&logo=Pandas&label=Pandas&labelColor=darkblue%20">
+   &nbsp;&nbsp;&nbsp;
+   <img align="right" src="https://img.shields.io/badge/NodeJS-%20-green?style=for-the-badge&logo=Node.js&label=NodeJS&labelColor=gray">
+    &nbsp;&nbsp;&nbsp;
+   <img align="right" src="https://img.shields.io/badge/Express-%20-black?style=for-the-badge&logo=Node.js&logoColor=black&label=Express&labelColor=white">
+
+   <br>
+   <br>
+
+   <h4 align="right">Frontend Development</h4>
+   <img align="right" src="https://img.shields.io/badge/React-%20-grey?style=for-the-badge&logo=React&label=React&labelColor=blue">
+    &nbsp;&nbsp;&nbsp;
+   <img align="right" src="https://img.shields.io/badge/Bootstrap-%20-white?style=for-the-badge&logo=Bootstrap&label=Bootstrap&labelColor=purple">
+   &nbsp;&nbsp;&nbsp;
+   <img align="right" src="https://img.shields.io/badge/Tailwind-%20-blue?style=for-the-badge&logo=tailwind&logoColor=blue&label=Tailwind&labelColor=white">
+
+   <br>
+   <br>
+ 
+
+   <h4 align="right">Database</h4>
+   <img align="right" src="https://img.shields.io/badge/mySQL-%20-blue?style=for-the-badge&logo=mysql&logoColor=blue&label=MYSQL&labelColor=white">
+    &nbsp;&nbsp;&nbsp;
+   <img align="right" src="https://img.shields.io/badge/MongoDB-%20-white?style=for-the-badge&logo=mongodb&logoColor=white&label=MongoDB&labelColor=green">
+   
+</div>
+
+ <br>
+   <br>
+
+<div>
+   <h2 align="left">Holler: Let's Code & Converse!</h2>
+
+ <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB3aXl4ZDg4c2dtY20ydHZlcXB5eGw1Zm8zM3Bsc3A5NjJ2N29mciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kDSnoXA3t6BYtfr9M6/giphy.gif" width="250px">
 </div>
 
 
