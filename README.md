@@ -76,6 +76,8 @@
    <img align="right" src="https://img.shields.io/badge/mySQL-%20-blue?style=for-the-badge&logo=mysql&logoColor=blue&label=MYSQL&labelColor=white">
    &nbsp;&nbsp;&nbsp;
    <img align="right" src="https://img.shields.io/badge/MongoDB-%20-white?style=for-the-badge&logo=mongodb&logoColor=white&label=MongoDB&labelColor=green">
+   &nbsp;&nbsp;&nbsp;
+   <img align="right" src="https://img.shields.io/badge/PostgreSQL-%20-white?style=for-the-badge&logo=Postgresql&logoColor=white&labelColor=blue">
    
 </div>
 
