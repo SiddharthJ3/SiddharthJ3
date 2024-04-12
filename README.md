@@ -39,7 +39,7 @@
 
    <h4 align="right">Programming Languages</h4>
    
-   <img align="right" src="https://img.shields.io/badge/python--white%20?style=for-the-badge&logo=python&logoColor=white&labelColor=blue">
+   <img align="right" src="https://img.shields.io/badge/python--blue%20?style=for-the-badge&logo=python&logoColor=blue&labelColor=white">
    &nbsp;&nbsp;&nbsp;
    <img align="right" src="https://img.shields.io/badge/C%2B%2B-%20-white%20?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=blue">
    &nbsp;&nbsp;&nbsp;
