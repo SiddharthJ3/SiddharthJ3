@@ -20,7 +20,7 @@
 
   - 👨‍💼:SDE-Intern (Backend) at [Tyroo](https://tyroo.com/).
   - 👨‍💼:Ex-SDE-Intern (Fullstack) at [Bajaj Capital](https://www.bajajcapital.com/).
-  - :lion: Mastering the digital domain with grit, and unwavering dedication.
+  - :lion: Mastering the digital domain with grit and unwavering dedication.
   - 📂: [Resume](https://drive.google.com/file/d/1GAy-lpUVIjy-FK0o_LUgs_pcWBcI19e2/view?usp=drive_link).
 </div>
 
@@ -48,15 +48,17 @@
    <br>
    <br>
 
-   <h4 align="right">Backend Development</h4>
+   <h4 align="right">Backend Development and Data Manipulation</h4>
    
-   <img align="right" src="https://img.shields.io/badge/Flask--white%20?style=for-the-badge&logo=flask&logoColor=white&labelColor=blue">
+   <img align="right" src="https://img.shields.io/badge/Numpy-%20-white?style=for-the-badge&logo=Numpy&logoColor=white&label=NumPy&labelColor=blue">
     &nbsp;&nbsp;&nbsp;
    <img align="right" src="https://img.shields.io/badge/Pandas-%20-yellow?style=for-the-badge&logo=Pandas&label=Pandas&labelColor=darkblue%20">
    &nbsp;&nbsp;&nbsp;
-   <img align="right" src="https://img.shields.io/badge/NodeJS-%20-green?style=for-the-badge&logo=Node.js&label=NodeJS&labelColor=gray">
+   <img align="right" src="https://img.shields.io/badge/Flask--white%20?style=for-the-badge&logo=flask&logoColor=white&labelColor=blue">
    &nbsp;&nbsp;&nbsp;
    <img align="right" src="https://img.shields.io/badge/Express-%20-black?style=for-the-badge&logo=Node.js&logoColor=black&label=Express&labelColor=white">
+    &nbsp;&nbsp;&nbsp;
+   <img align="right" src="https://img.shields.io/badge/NodeJS-%20-green?style=for-the-badge&logo=Node.js&label=NodeJS&labelColor=gray">
 
    <br>
    <br>
@@ -67,17 +69,19 @@
     &nbsp;&nbsp;&nbsp;
    <img align="right" src="https://img.shields.io/badge/Bootstrap-%20-white?style=for-the-badge&logo=Bootstrap&label=Bootstrap&labelColor=purple">
    &nbsp;&nbsp;&nbsp;
-   <img align="right" src="https://img.shields.io/badge/Tailwind-%20-blue?style=for-the-badge&logo=tailwind&logoColor=blue&label=Tailwind&labelColor=white">
+   <img align="right" src="https://img.shields.io/badge/Tailwind-%20-blue?style=for-the-badge&logo=Tailwind&logoColor=blue&label=Tailwind&labelColor=white">
 
    <br>
    <br>
 
-   <h4 align="right">Database</h4>
+   <h4 align="right">Database and Visualization Tools</h4>
    <img align="right" src="https://img.shields.io/badge/mySQL-%20-blue?style=for-the-badge&logo=mysql&logoColor=blue&label=MYSQL&labelColor=white">
    &nbsp;&nbsp;&nbsp;
    <img align="right" src="https://img.shields.io/badge/MongoDB-%20-white?style=for-the-badge&logo=mongodb&logoColor=white&label=MongoDB&labelColor=green">
    &nbsp;&nbsp;&nbsp;
-   <img align="right" src="https://img.shields.io/badge/PostgreSQL-%20-white?style=for-the-badge&logo=Postgresql&logoColor=white&labelColor=blue">
+   <img align="right" src="https://img.shields.io/badge/Kibana-%20-purple?style=for-the-badge&logo=Kibana&logoColor=purple&labelColor=green">
+   &nbsp;&nbsp;&nbsp;
+   <img align="right" src="https://img.shields.io/badge/ElasticSearch-%20-blue?style=for-the-badge&logo=Elasticsearch&logoColor=blue&labelColor=yellow">
    
 </div>
 
