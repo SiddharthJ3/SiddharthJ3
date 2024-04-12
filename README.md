@@ -51,13 +51,13 @@
    <h4 align="right">Backend Development and Data Manipulation</h4>
    
    <img align="right" src="https://img.shields.io/badge/Numpy-%20-white?style=for-the-badge&logo=Numpy&logoColor=white&label=NumPy&labelColor=blue">
-    &nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;
    <img align="right" src="https://img.shields.io/badge/Pandas-%20-yellow?style=for-the-badge&logo=Pandas&label=Pandas&labelColor=darkblue%20">
    &nbsp;&nbsp;&nbsp;
    <img align="right" src="https://img.shields.io/badge/Flask--white%20?style=for-the-badge&logo=flask&logoColor=white&labelColor=blue">
    &nbsp;&nbsp;&nbsp;
    <img align="right" src="https://img.shields.io/badge/Express-%20-black?style=for-the-badge&logo=Node.js&logoColor=black&label=Express&labelColor=white">
-    &nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;
    <img align="right" src="https://img.shields.io/badge/NodeJS-%20-green?style=for-the-badge&logo=Node.js&label=NodeJS&labelColor=gray">
 
    <br>
