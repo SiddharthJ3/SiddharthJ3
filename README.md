@@ -81,7 +81,7 @@
    &nbsp;&nbsp;&nbsp;
    <img align="right" src="https://img.shields.io/badge/Kibana-%20-purple?style=for-the-badge&logo=Kibana&logoColor=purple&labelColor=green">
    &nbsp;&nbsp;&nbsp;
-   <img align="right" src="https://img.shields.io/badge/ElasticSearch-%20-blue?style=for-the-badge&logo=Elasticsearch&logoColor=blue&labelColor=yellow">
+   <img align="right" src="https://img.shields.io/badge/ElasticSearch-%20-blue?style=for-the-badge&logo=ES&logoColor=blue&labelColor=yellow">
    
 </div>
 
